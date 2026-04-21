@@ -80,7 +80,7 @@ class UsamaManzoor:
                 "CrewAI agent orchestration"
             ],
             "🔍 RAG Systems": [
-                "Multimodal RAG (text + images)",
+                "Multimodal RAG (text + images + Table)",
                 "Fully local RAG with Ollama",
                 "Semantic chunking & retrieval"
             ],
