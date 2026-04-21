@@ -1,144 +1,325 @@
-<h1 align="center">Hi, I'm [Usama Manzoor] 👋</h1>
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,3,5&height=280&section=header&text=USAMA%20MANZOOR&fontSize=90&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Transforming%20Ideas%20into%20Intelligent%20AI%20Solutions&descSize=20&descAlignY=60" />
+  
+</div>
 
-<p align="center">
-  <em>Associate AI Engineer · Building intelligent systems that bridge research and production</em>
-</p>
+</br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-LLMs%20%26%20AI%20Agents-7F77DD?style=flat" />
-  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20LangChain%20%7C%20FastAPI-1D9E75?style=flat" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaborations-378ADD?style=flat" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Usama!;Associate+AI+Engineer;LLMs+%7C+Agentic+AI+%7C+RAG+Systems;Building+Production-Ready+AI+Pipelines;Multi-Agent+%7C+NLP+%7C+Generative+AI" alt="Typing animation" />
+</div>
+
+</br>
+
+<div align="center">
+  <strong>Building intelligent systems that bridge research and production.</strong>
+</div>
+
+<div align="center">
+  <br/>
+  <p>
+    <a href="https://github.com/Usamamanzoor2">
+      <img src="https://img.shields.io/github/followers/Usamamanzoor2?label=Followers&style=flat-square&color=00D9FF&labelColor=1a1b27" alt="GitHub Followers" />
+    </a>
+    <a href="https://github.com/Usamamanzoor2">
+      <img src="https://img.shields.io/github/stars/Usamamanzoor2?label=Total%20Stars&style=flat-square&color=00D9FF&labelColor=1a1b27" alt="GitHub Stars" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=Usamamanzoor2&label=Profile+Views&color=00D9FF&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Focus-AI%20Engineering-00D9FF?style=flat-square&labelColor=1a1b27" alt="Focus" />
+  </p>
+  <br/>
+  <img src="https://img.shields.io/badge/🤖_AI_Projects-8+-00D9FF?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/☕_Coffee_Consumed-∞-00D9FF?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/🔍_RAG_Systems-Built-00D9FF?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/🌟_Open_Source-Active-00D9FF?style=for-the-badge&labelColor=1a1b27" />
+</div>
+
+<br/>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-I'm an Associate AI Engineer passionate about building end-to-end AI systems — from multi-agent pipelines and RAG applications to NLP analytics and text-to-video generation. I enjoy taking ideas from proof-of-concept to production-ready solutions.
+```python
+class UsamaManzoor:
+    def __init__(self):
+        self.name = "Usama Manzoor"
+        self.role = "Associate AI Engineer"
+        self.location = "Sargodha, Pakistan 🇵🇰"
+        self.motto = "Building AI systems that are reliable, explainable, and actually useful"
 
-- 🤖 Building **multi-agent AI systems** with CrewAI & LangGraph
-- 🔍 Designing **RAG pipelines** — both cloud and fully local deployments
-- 📊 Applying **NLP & semantic clustering** to extract meaning from unstructured data
-- 🎥 Exploring **generative AI** for video, text, and multimodal applications
-- 🌱 Continuously learning at the intersection of AI research and engineering
+    def current_focus(self):
+        return {
+            "🔨 Building": [
+                "Production-ready agentic AI pipelines",
+                "Multimodal RAG systems (local + cloud)",
+                "LLM-powered verification workflows"
+            ],
+            "📚 Learning": [
+                "Advanced LangGraph state machines",
+                "Vector database optimization",
+                "MLOps and AI system observability"
+            ],
+            "🧪 Experimenting": [
+                "Multi-agent CrewAI orchestration",
+                "Local LLM inference with Ollama",
+                "Text-to-video generation (Veo 3.0)"
+            ],
+            "⚡ Core Stack": [
+                "LangChain", "LangGraph", "CrewAI",
+                "FastAPI", "PostgreSQL", "OpenSearch"
+            ]
+        }
+
+    def specializations(self):
+        return {
+            "🤖 Agentic AI": [
+                "Multi-agent system design",
+                "LangGraph stateful pipelines",
+                "CrewAI agent orchestration"
+            ],
+            "🔍 RAG Systems": [
+                "Multimodal RAG (text + images)",
+                "Fully local RAG with Ollama",
+                "Semantic chunking & retrieval"
+            ],
+            "📊 NLP & Analytics": [
+                "Semantic clustering & embeddings",
+                "UMAP dimensionality reduction",
+                "Content silo analysis"
+            ],
+            "⚙️ AI Backend": [
+                "FastAPI AI service development",
+                "LLM pipeline engineering",
+                "Vector store integration"
+            ]
+        }
+
+    def get_in_touch(self):
+        return "your@email.com"
+```
+
+### 💡 What Drives Me
+- 🎯 **Mission**: Building AI solutions that solve real-world problems at scale
+- 🚀 **Vision**: Making advanced agentic AI reliable and production-ready
+- 💪 **Approach**: Clean architecture, grounded outputs, continuous learning
+- 🌟 **Values**: Innovation, reproducibility, and open-source contribution
 
 ---
 
-## 🛠️ Tech Stack
+## 🌐 Connect With Me
 
-**Languages & Frameworks**
+<div align="center">
+  <a href="https://linkedin.com/in/usama-manzoor-828972327">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn"/>
+  </a>
+  <a href="usamamanzoor712@email.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/Usamamanzoor2">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub"/>
+  </a>
+</div>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat)
+<br/>
 
-**AI / Machine Learning**
+---
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+## 💻 Technology Arsenal
 
-**LLMs & Agentic AI**
+<div align="center">
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
-![CrewAI](https://img.shields.io/badge/CrewAI-D97757?style=flat)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=google&logoColor=white)
+### 🔤 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,sql&theme=dark" alt="Languages" />
+</p>
 
-**Data & NLP**
+### 🤖 AI/ML & LLM Ecosystem
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+<br>Python
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch"/>
+<br>PyTorch
+</td>
+<td align="center" width="100">
+<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="50" height="50" alt="LangChain"/>
+<br>LangChain
+</td>
+<td align="center" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50" alt="Scikit-learn"/>
+<br>Scikit-Learn
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas"/>
+<br>Pandas
+</td>
+<td align="center" width="100">
+<img src="https://www.svgrepo.com/show/354107/numpy.svg" width="50" height="50" alt="NumPy"/>
+<br>NumPy
+</td>
+</tr>
+</table>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/🕸️_LangGraph-1C3C3C?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/🤝_CrewAI-D97757?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
+![Ollama](https://img.shields.io/badge/🦙_Ollama-000000?style=for-the-badge)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Veo](https://img.shields.io/badge/Google_Veo_3.0-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge)
 
-**Infrastructure & Tools**
+### 🗄️ Vector Databases & Search
+<p>
+  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" alt="OpenSearch"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" alt="Pinecone"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge" alt="ChromaDB"/>
+  <img src="https://img.shields.io/badge/FAISS-00A8E1?style=for-the-badge" alt="FAISS"/>
+</p>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat&logo=opensearch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+### ⚙️ Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,django&theme=dark" alt="Backend" />
+</p>
+
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+### 🗃️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis&theme=dark" alt="Databases" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel&theme=dark" alt="DevOps" />
+</p>
+
+![Hugging Face Spaces](https://img.shields.io/badge/🤗_HF_Spaces-FFD21E?style=for-the-badge)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+
+### 🔧 Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,git,github,postman,linux&theme=dark" alt="Tools" />
+</p>
+
+</div>
+
+<br/>
 
 ---
 
 ## 🚀 Featured Projects
 
+<div align="center">
 
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🐦 [**Twitter Claim Verifier**](https://github.com/Usamamanzoor2/twitter-claim-verifier) | AI-powered financial claim verification pipeline for X/Twitter with LangGraph, Gemma 4, SEC data, and credibility scoring | `LangGraph` `Gemma 4` `PostgreSQL` `FastAPI` `Playwright` |
+| 🔬 [**Patent Innovation Predictor**](https://github.com/Usamamanzoor2/patent-innovation-predictor) | Multi-agent CrewAI system for patent trend analysis and future technology forecasting using OpenSearch | `CrewAI` `Ollama` `OpenSearch` `DeepSeek R1` |
+| 🧠 [**Multimodal Local RAG**](https://github.com/Usamamanzoor2/fullstack-multimodal-local-rag) | Fully local multimodal RAG — text + images, PDF parsing, semantic chunking, no cloud required | `Ollama` `OpenSearch` `Gemini` `DeepSeek R1` |
+| 🎬 [**Text-to-Video Fullstack**](https://github.com/Usamamanzoor2/text-2-video-fullstack) | Full-stack app for AI video generation using Google Veo 3.0 with Gradio UI and Docker support | `Google Veo 3.0` `Gradio` `Docker` |
+| 🐾 [**WAF NLP Clustering**](https://github.com/Usamamanzoor2/World_Animal_foundation_NLP_Clustering) | Semantic clustering pipeline using BGE embeddings + UMAP to surface content silos for the World Animal Foundation | `BGE Embeddings` `UMAP` `scikit-learn` `Plotly` |
+| 🐘 [**WAF RAG Chatbot**](https://github.com/Usamamanzoor2/world_animal_foundation_rag_chatbot) | RAG-powered chatbot for natural language Q&A over the WAF knowledge base with citation-backed answers | `LangChain` `RAG` `Vector Store` `FastAPI` |
+| 📈 [**Market Research Agents**](https://github.com/Usamamanzoor2/markeet_research_agents) | Multi-agent AI system — Trend, Competitor, Sentiment & Strategy agents — producing full market intelligence reports | `LangGraph` `Multi-Agent` `FastAPI` |
+| 🔍 [**Product Research Agent**](https://github.com/Usamamanzoor2/product-research-ai-agent) | Autonomous ReAct agent gathering pricing, features, reviews, and competitor data into structured research reports | `LangChain` `ReAct` `Sentiment Analysis` |
 
+</div>
 
-### 🔬 [Patent Innovation Predictor](https://github.com/Usamamanzoor2/patent-innovation-predictor)
-> Multi-agent system for patent trend analysis and innovation forecasting
-
-Four specialized **CrewAI** agents — Research Director, Patent Retriever, Data Analyst, and Innovation Forecaster — collaborate to analyze patent data stored in OpenSearch and predict future technology directions. Focused on lithium battery technology with semantic, hybrid, and iterative search strategies.
-
-`CrewAI` `Ollama` `OpenSearch` `DeepSeek R1` `Docker`
-
----
-
-### 🧠 [Fullstack Multimodal Local RAG](https://github.com/Usamamanzoor2/fullstack-multimodal-local-rag)
-> Fully local multimodal RAG — text and image, no cloud required
-
-A complete RAG pipeline supporting both text and images. PDFs are semantically chunked, embedded with `nomic-embed-text` via Ollama, stored in a local OpenSearch vector DB, and queried using DeepSeek R1 or Gemini for grounded responses. Everything runs locally — your data stays on your machine.
-
-`Ollama` `OpenSearch` `DeepSeek R1` `Gemini` `PDF Parsing` `Docker`
+<br/>
 
 ---
 
-### 🎬 [Text-to-Video Fullstack](https://github.com/Usamamanzoor2/text-2-video-fullstack)
-> Full-stack app for AI-powered video generation using Google Veo 3.0
+## 📊 GitHub Analytics
 
-Users enter a text prompt through a Gradio web interface and receive an AI-generated video powered by Google's Veo 3.0 model. Fully containerized with Docker and deployable to any cloud provider or Hugging Face Spaces.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Usamamanzoor2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true&include_all_commits=true&cache_seconds=1800" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=Usamamanzoor2&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=C9D1D9&cache_seconds=1800" width="49%" />
+</div>
 
-`Google Veo 3.0` `Gradio` `Docker` `Python` `Hugging Face Spaces`
+<br/>
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usamamanzoor2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=10&cache_seconds=1800" width="49%" />
+</div>
 
-### 🐾 [WAF NLP Clustering](https://github.com/Usamamanzoor2/World_Animal_foundation_NLP_Clustering)
-> Semantic content clustering for the World Animal Foundation
+<br/>
 
-A multi-stage NLP pipeline that scrapes the WAF sitemap, generates semantic embeddings using BGE Base English v1.5, and applies UMAP + clustering to surface content silos, gaps, and overlaps — with interactive 3D Plotly visualizations.
-
-`NLP` `BGE Embeddings` `UMAP` `scikit-learn` `Plotly` `Jupyter`
-
----
-
-### 🐘 [WAF RAG Chatbot](https://github.com/Usamamanzoor2/world_animal_foundation_rag_chatbot)
-> RAG-powered chatbot for the World Animal Foundation knowledge base
-
-A retrieval-augmented chatbot that enables natural language Q&A over the foundation's documents. Combines semantic vector search with an LLM to deliver grounded, citation-backed answers.
-
-`LangChain` `RAG` `Vector Store` `Embeddings` `FastAPI`
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Usamamanzoor2&theme=tokyonight" width="100%" />
+</div>
 
 ---
 
-### 📈 [Market Research Agents](https://github.com/Usamamanzoor2/markeet_research_agents)
-> Multi-agent AI system for automated market intelligence reports
+## 📈 Contribution Activity
 
-Specialized agents autonomously handle trend discovery, competitor analysis, sentiment mining, and strategic synthesis — producing comprehensive market research reports from a single query.
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Usamamanzoor2&custom_title=📊%20Usama's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area_color=00D9FF&title_color=00D9FF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+</div>
 
-`LangGraph` `Multi-Agent` `Web Search` `FastAPI`
-
----
-
-### 🔍 [Product Research AI Agent](https://github.com/Usamamanzoor2/product-research-ai-agent)
-> Autonomous ReAct agent for deep product research and competitor analysis
-
-An autonomous agent that gathers pricing, features, reviews, and competitor data from the web and compiles them into structured, actionable research reports.
-
-`LangChain` `ReAct` `Web Search` `Sentiment Analysis` `FastAPI`
+<br/>
 
 ---
 
-## 📫 Let's Connect
+## 💭 Random Dev Quote
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Usamamanzoor2)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" />
+</div>
+
+<br/>
 
 ---
 
-<p align="center">
-  <i>Building AI systems that are reliable, explainable, and actually useful.</i>
-</p>
+## 📫 Let's Connect & Collaborate
+
+<div align="center">
+
+### 💡 Why Work With Me?
+
+✨ **Projects** — 8+ end-to-end AI systems spanning agents, RAG, NLP, and generative AI  
+🚀 **Depth** — From local LLM inference to cloud-deployed video generation pipelines  
+🎯 **Results-Driven** — Production-ready code with fault tolerance, DLQ, and observability  
+🤝 **Collaborative** — Open to interesting AI projects and research collaborations  
+
+<br/>
+
+### 📧 Get In Touch
+
+**Email:** usamamanzoor712@email.com  
+**LinkedIn:** [Connect with me](https://linkedin.com/in/usama-manzoor-828972327/)  
+**GitHub:** [Usamamanzoor2](https://github.com/Usamamanzoor2)  
+
+<br/>
+
+**💬 "Let's build something intelligent together!"**
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### 🌟 *"Build AI systems that are reliable, explainable, and actually useful."*
+
+<br/>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+⭐;Feel+free+to+explore+my+repositories+🔍;Open+to+collaboration+and+new+opportunities+🤝;Let's+connect+and+build+the+future+together+🚀)
+
+**⭐️ From [Usama Manzoor](https://github.com/Usamamanzoor2) | Building the Future with AI**
+
+<br/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,3,5&height=150&section=footer&animation=twinkling" width="100%" />
